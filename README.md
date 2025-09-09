@@ -46,8 +46,7 @@ The goal is to identify patterns, understand correlations with weather features,
 
 5. **Visualization**
    - Plotted demand trends, correlations, and model predictions.
-   - Saved plots in the `images/` folder.
-
+   
 ---
 
 ## 
