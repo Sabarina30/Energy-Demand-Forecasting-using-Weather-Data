@@ -11,8 +11,8 @@ The goal is to identify patterns, understand correlations with weather features,
 ## Dataset
 - **Source:** [Specify source, e.g., UCI, Delhi Power & Weather Data]  
 - **Columns:**
-  - datetime: Timestamp of observation
-  - Power demand: Energy demand in MW
+  - 'datetime': Timestamp of observation
+  - 'Power demand': Energy demand in MW
   - `temp`: Temperature (°C)
   - `dwpt`: Dew point (°C)
   - `rhum`: Relative humidity (%)
