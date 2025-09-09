@@ -1,4 +1,4 @@
-# Energy Demand Forecasting Project ⚡
+# Energy Demand Forecasting Project 
 
 ## Project Overview
 Accurate energy demand  forecasting is crucial for utilities and industries to ensure reliability,cost optimization and sustainability. Traditional forecasting methods often fail to capture non-linear pattern influenced 
