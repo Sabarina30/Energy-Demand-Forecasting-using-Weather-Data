@@ -38,7 +38,6 @@ The goal is to identify patterns, understand correlations with weather features,
    - Used moving averages to observe short-term trends.
 
 3. **Feature Engineering**
-   - Created time-based features: year, month, day, hour, minute.
    - Added lag features to help with forecasting models.
 
 4. **Modeling & Forecasting**
